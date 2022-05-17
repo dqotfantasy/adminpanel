@@ -1,0 +1,7 @@
+contest tabel add is_dynamic column
+
+contest tabel add inning_number column
+
+inning_number Column added in fixtures Table
+
+total_innings Column added in fixtures Table
